@@ -1,2 +1,4 @@
-# ebaglewenn
-u w0t m8
+# Ebag Lewenn
+A sidescroller begrudgingly written in Javascript
+
+y u do dis
